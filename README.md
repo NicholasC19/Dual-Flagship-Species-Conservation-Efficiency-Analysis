@@ -4,7 +4,7 @@ A quantitative research project evaluating and comparing the conservation cost-e
 
 **Overview**
 
-This project applies a newly developed cost-efficiency framework to assess spatial and economic trade-offs in flagship species conservation. By examining species density protected per unit area (species/km^2) against area-based management costs (USD/km^2), the analysis highlights key differences in ecological yield and resource allocation between lowland and high-altitude umbrella species.
+This project applies a newly developed cost-efficiency framework to assess spatial and economic trade-offs in flagship species conservation. By examining species density protected per unit area (species/km²) against area-based management costs (USD/km²), the analysis highlights key differences in ecological yield and resource allocation between lowland and high-altitude umbrella species.
 
 
 
@@ -19,9 +19,9 @@ Policy Implications: While the giant panda yields higher local species coverage 
 
 
 **Tools & Data Sources**
-  Language & Analysis: R 
-  Spatial & Ecological Data: IUCN Red List
-  Economic Data: Published conservation habitat cost estimates
+Language & Analysis: R 
+Spatial & Ecological Data: IUCN Red List
+Economic Data: Published conservation habitat cost estimates
 
 
   
