@@ -19,8 +19,11 @@ Policy Implications: While the giant panda yields higher local species coverage 
 
 
 **Tools & Data Sources**
+
 Language & Analysis: R 
+
 Spatial & Ecological Data: IUCN Red List
+
 Economic Data: Published conservation habitat cost estimates
 
 
